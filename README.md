@@ -1,7 +1,4 @@
-<picture>
-
-  <img alt="Header" src="https://github.com/user-attachments/assets/312be064-ce10-4536-8744-35ddffd37831">
-</picture>
+<img width="1184" height="317" alt="Light_Banner" src="https://github.com/user-attachments/assets/11ad1ef9-16af-445d-87f3-96135025ef3a" />
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
   <br/>
